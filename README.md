@@ -5,6 +5,8 @@ Challenge-info
 
 These 100 programming challenges contain various problems proposed by anons on /g/ that are geared to either teach new programmers simple CS concepts or give a bored NEET something to do in their basement for the weekend besides Chinese cartoons.
 
+When making new threads, please use the provided pasta.txt as a template so it can be searchable and provide the correct info.
+
 Difficulty can vary from simple math and recursion to an implementation of some CS theorem or a game clone.
 Once you do all of the challenges, you should be able to do all of the following:
 
