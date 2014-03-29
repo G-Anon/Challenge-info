@@ -1,0 +1,24 @@
+Title: Programming Challenge Thread
+Image: https://raw.githubusercontent.com/G-Anon/Challenge-info/master/challenge.png
+
+Text:
+New challenge thread. Roll for new challenges, post updates on current ones, and discuss other ways to put your programming skill to use.
+https://github.com/G-Anon - archive of program solutions posted on threads. Some may be archived without consent.
+
+Supported languages:
+>C/C++
+>Java
+>Python
+Lisp, Pascal, C# and other languages will come if others post
+
+If you intentionally want yours posted, please:
+>indent correctly (1 tab = 4 spaces)
+>specify the language
+>any 3rd-party libraries (if any needed)
+>compiler arguments (if any needed)
+>what license to publish
+>if filename affects the program 
+(ex: in Java, myProgram.java will only work if the main method is in [code]public class myProgram[/code])
+If the project spans multiple files, post a Dropbox, Google Drive, Mediafire, ..., or GitHub link so the source code can be added in one folder in the repo.
+
+If you do not want yours hosted outside your own repo, we can also link to yours if you'd like.
